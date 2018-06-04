@@ -12,13 +12,23 @@
     },
     
     "feature_names": [
+        "CENSUS_TRACT",
         "CCN",
         "WARD",
         "LATITUDE",
         "start_month",
         "start_day",
-        "start_hour", 
+        "start_hour",
         "longitude2",
+        "PctPoorPersons_2011_15",
+        "PctPoorChildren_2011_15",
+        "PctPoorElderly_2011_15",
+        "PctUnemployed_2011_15",
+        "Pct16andOverEmployed_2011_15",
+        "Pct25andOverWoutHS_2011_15",
+        "PctHshldPhone_2011_15",
+        "PctHshldCar_2011_15",
+        "AvgFamilyIncAdj_2011_15",
         "ucr-rank"
     ]
 }

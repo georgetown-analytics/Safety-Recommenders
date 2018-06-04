@@ -1,0 +1,48 @@
+{
+    "target_names": {
+        "1": "violent - homicide",
+        "2": "violent - sex abuse",
+        "3": "violent - assault with dangerous weapon",
+        "4": "violent - robbery",
+        "5": "property - burglary",
+        "6": "property - theft other",
+        "7": "property - theft auto",
+        "8": "property - motor vehicle theft",
+        "9": "property - arson"
+    },
+    
+    "feature_names": [
+        "CENSUS_TRACT",
+        "CCN",
+        "WARD",
+        "LATITUDE",
+        "start_month",
+        "start_day",
+        "start_hour",
+        "longitude2",
+        "PctPoorPersons_2011_15",
+        "PctPoorChildren_2011_15",
+        "PctPoorElderly_2011_15",
+        "PctUnemployed_2011_15",
+        "Pct16andOverEmployed_2011_15",
+        "Pct25andOverWoutHS_2011_15",
+        "PctHshldPhone_2011_15",
+        "PctHshldCar_2011_15",
+        "AvgFamilyIncAdj_2011_15",
+        "Rate_crimes_pt1_violent_2010",
+        "Rate_crimes_pt1_violent_2011",
+        "Rate_crimes_pt1_violent_2012",
+        "Rate_crimes_pt1_violent_2013",
+        "Rate_crimes_pt1_violent_2014",
+        "Rate_crimes_pt1_violent_2015",
+        "Rate_crimes_pt1_violent_2016",
+        "Rate_crimes_pt1_property_2010",
+        "Rate_crimes_pt1_property_2011",
+        "Rate_crimes_pt1_property_2012",
+        "Rate_crimes_pt1_property_2013",
+        "Rate_crimes_pt1_property_2014",
+        "Rate_crimes_pt1_property_2015",
+        "Rate_crimes_pt1_property_2016",
+        "ucr-rank"
+    ]
+}

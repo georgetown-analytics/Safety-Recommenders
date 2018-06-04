@@ -1,0 +1,24 @@
+{
+    "target_names": {
+        "1": "violent - homicide",
+        "2": "violent - sex abuse",
+        "3": "violent - assault with dangerous weapon",
+        "4": "violent - robbery",
+        "5": "property - burglary",
+        "6": "property - theft other",
+        "7": "property - theft auto",
+        "8": "property - motor vehicle theft",
+        "9": "property - arson"
+    },
+    
+    "feature_names": [
+        "CCN",
+        "WARD",
+        "LATITUDE",
+        "start_month",
+        "start_day",
+        "start_hour", 
+        "longitude2",
+        "ucr-rank"
+    ]
+}
