@@ -1,5 +1,6 @@
 # Safety-Recommenders
 Cohort 11 Capstone Project for the Certificate of Data Science at Georgetown University School of Continuing Studies.
+
 Instructions: Our main file "Safety Recommenders Projecs" contains the following notebooks which should be run in the following order:
 
 1. Data ingestion and wrangling
