@@ -1,6 +1,10 @@
 # Safety-Recommenders
 Cohort 11 Capstone Project for the Certificate of Data Science at Georgetown University School of Continuing Studies.
 
+Franco Bueno Mattera, Lee Goldberg,
+Melanie Parish, and Judith Thompkins
+
+
 I. Abstract
 
 
