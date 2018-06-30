@@ -2,6 +2,8 @@
 Cohort 11 Capstone Project for the Certificate of Data Science at Georgetown University School of Continuing Studies.
 
 I. Abstract
+
+
 Each year NeighborhoodScout releases a comprehensive ranked list of the most dangerous cities
 in America. Their list is based on the number of reported violent crimes per 1,000 residents.
 Violent crimes include murder, rape, armed robbery and aggravated assault. In 2018, Washington
