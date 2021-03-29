@@ -54,7 +54,7 @@ protobuf==3.5.2.post1
 psutil==5.4.3
 psycopg2==2.7.4
 public==1.0.3
-Pygments==2.2.0
+Pygments==2.7.4
 pyparsing==2.2.0
 python-dateutil==2.7.3
 pytz==2018.4
